@@ -5,9 +5,7 @@
             "title": "hello"
         }
     ],
-    "supplers": {
-        "current_page":1,
-        "data":[
+    "supplers": [
             {"id":1,"name_en":"Papaya Trade","name_kh":"Papaya Trade","phone":null,"email":null,"address":null,"latitude":null,"longitude":null,"created_at":"2020-07-18T14:14:14.000000Z","created_by":1,"updated_at":"2020-07-18T14:14:14.000000Z","updated_by":1,"deleted_at":null,"deleted_by":null,"name":"Papaya Trade"},
             {"id":2,"name_en":"ASIAN WORKING TRACTOR (Ses Samot)","name_kh":"ASIAN WORKING TRACTOR (Ses Samot)","phone":null,"email":null,"address":null,"latitude":null,"longitude":null,"created_at":"2020-07-18T14:14:14.000000Z","created_by":1,"updated_at":"2020-07-18T14:14:14.000000Z","updated_by":1,"deleted_at":null,"deleted_by":null,"name":"ASIAN WORKING TRACTOR (Ses Samot)"},
             {"id":3,"name_en":"MARBO AGRICULTURAL INTERNATIONAL INVESTMENT CO.,LTD","name_kh":"MARBO AGRICULTURAL INTERNATIONAL INVESTMENT CO.,LTD","phone":null,"email":null,"address":null,"latitude":null,"longitude":null,"created_at":"2020-07-18T14:14:14.000000Z","created_by":1,"updated_at":"2020-07-18T14:14:14.000000Z","updated_by":1,"deleted_at":null,"deleted_by":null,"name":"MARBO AGRICULTURAL INTERNATIONAL INVESTMENT CO.,LTD"},
@@ -24,17 +22,6 @@
             {"id":14,"name_en":"SAHACO","name_kh":"SAHACO","phone":null,"email":null,"address":null,"latitude":null,"longitude":null,"created_at":"2020-07-18T14:14:14.000000Z","created_by":1,"updated_at":"2020-07-18T14:14:14.000000Z","updated_by":1,"deleted_at":null,"deleted_by":null,"name":"SAHACO"},
             {"id":15,"name_en":"Nileda Co., Ltd","name_kh":"Nileda Co., Ltd","phone":null,"email":null,"address":null,"latitude":null,"longitude":null,"created_at":"2020-07-18T14:14:14.000000Z","created_by":1,"updated_at":"2020-07-18T14:14:14.000000Z","updated_by":1,"deleted_at":null,"deleted_by":null,"name":"Nileda Co., Ltd"}
         ],
-        "first_page_url":"http:\/\/127.0.0.1:8000\/api\/suppliers?page=1",
-        "from":1,
-        "last_page":5,
-        "last_page_url":"http:\/\/127.0.0.1:8000\/api\/suppliers?page=5",
-        "next_page_url":"http:\/\/127.0.0.1:8000\/api\/suppliers?page=2",
-        "path":"http:\/\/127.0.0.1:8000\/api\/suppliers",
-        "per_page":15,
-        "prev_page_url":null,
-        "to":15,
-        "total":65
-    },
     "profile": {
         "name": "typicode"
     }
