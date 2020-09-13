@@ -6,7 +6,7 @@
         }
     ],
 
-    "supplier": [
+    "suppliers": [
             {
                 "id":1,
                 "name_en":"Papaya Trade",
