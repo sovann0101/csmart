@@ -108,7 +108,7 @@
             "updated_by":1,
             "deleted_at":null,
             "deleted_by":null,
-            "description":null,
+            "description":"Testing Description",
             "title":"Entrepreneurs Are Everywhere: A Manifesto for Solving Poverty"
         },
         {
@@ -124,7 +124,7 @@
             "updated_by":1,
             "deleted_at":null,
             "deleted_by":null,
-            "description":null,
+            "description":"Farming First Reprint: The iDEal Way to Expand Drip Irrigation",
             "title":"Farming First Reprint: The iDEal Way to Expand Drip Irrigation"
         },
         {
@@ -140,7 +140,7 @@
             "updated_by":1,
             "deleted_at":null,
             "deleted_by":null,
-            "description":null,
+            "description":"The BoP Market for Drip Irrigation: Market Research Data",
             "title":"The BoP Market for Drip Irrigation: Market Research Data"
         },
         {
@@ -156,7 +156,7 @@
             "updated_by":1,
             "deleted_at":null,
             "deleted_by":null,
-            "description":null,
+            "description":"The Clean Irrigation Solution",
             "title":"The Clean Irrigation Solution"
         }
     ],
